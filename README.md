@@ -23,7 +23,7 @@
 
 ## 📥 Скачать и установить
 
- * <p align="left"> 📲 <a href="https://github.com/Serega88kos/zazer/blob/main/apk/app-release.apk"> Скачать APK
+ * <p align="left"> 📲 <a href="https://github.com/Serega88kos/zazer/blob/main/apk/app-release.apk?raw=true"> Скачать APK
  <a/>
 </p>
 
